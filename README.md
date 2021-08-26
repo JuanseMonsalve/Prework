@@ -1,7 +1,7 @@
 # Pre-work - *My First iOS App*
 
 **My First iOS App** is a tip calculator application for iOS.
-our N
+
 Submitted by: **Juan S Monsalve**
 
 Time spent: **1.5** hours spent in total
